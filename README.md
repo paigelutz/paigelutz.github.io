@@ -1,6 +1,6 @@
 # Paige Lutz
 
-I'm a college student minoring in CIT
+I am a college student minoring in CIT
 
 ### CIT 281 Projects
 - Project 1 (learned about for loops, forEach method, and dice rolling)
